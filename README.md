@@ -5,6 +5,7 @@
 > Этот репозиторий в первую очередь рассчитан на пользователей из **России**, поскольку большинство комплектующих можно приобрести на **OZON** с быстрой доставкой, а альтернативные ссылки на **AliExpress** указаны там, где это необходимо.
 
 ---
+<img width="2560" height="1327" alt="N2t5RALJD1Xnb6qknLuyLAuZX7WnITUO0xBRt-Lojf3LsLFJEbCbKAZp0mdZ8MC2CXpwXQa8S9gt1IqCmCDhucd2" src="https://github.com/user-attachments/assets/ec5450a6-041d-4c87-b6ea-08662443c785" />
 
 # 📖 Содержание
 
@@ -169,7 +170,6 @@ https://ali.click/8dtlg16
 1. Импортировать модели.
 2. Развернуть детали правильной стороной.
 3. Запустить печать.
-https://github.com/user-attachments/assets/8d5f8d1b-baaf-4253-b525-28eeb9868045
 
 ---
 
