@@ -169,6 +169,7 @@ https://ali.click/8dtlg16
 1. Импортировать модели.
 2. Развернуть детали правильной стороной.
 3. Запустить печать.
+https://github.com/user-attachments/assets/8d5f8d1b-baaf-4253-b525-28eeb9868045
 
 ---
 
