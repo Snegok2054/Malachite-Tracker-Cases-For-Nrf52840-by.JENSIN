@@ -1,6 +1,6 @@
 
 # 🦋 Malachite Tracker Cases (RU)
-
+<img width="1920" height="2560" alt="Z26rVT5v5yKKJDasQKqQJpKiCe7bdnMvG37xar0nfzfrp9Pq0EHae6pTqQU4mUUJVi31eqro1o-k1BJO_SIYzGNC(1)" src="https://github.com/user-attachments/assets/d8373e6c-b554-47e0-937a-dd9c47da37a2" />
 > Полное русскоязычное руководство по сборке **Malachite Tracker** на базе **nRF52840 + LSM6DSV**.
 >
 > Этот репозиторий в первую очередь рассчитан на пользователей из **России**, поскольку большинство комплектующих можно приобрести на **OZON** с быстрой доставкой, а альтернативные ссылки на **AliExpress** указаны там, где это необходимо.
