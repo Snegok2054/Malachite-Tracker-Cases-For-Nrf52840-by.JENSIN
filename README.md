@@ -170,6 +170,7 @@ https://ali.click/8dtlg16
 1. Импортировать модели.
 2. Развернуть детали правильной стороной.
 3. Запустить печать.
+<img width="1328" height="950" alt="Anycubicslicernext-2026 07 07-17 53 21 04-_online-video-cutter com_" src="https://github.com/user-attachments/assets/6742bbff-d35b-43a6-aba7-bb7272f79481" />
 
 ---
 
