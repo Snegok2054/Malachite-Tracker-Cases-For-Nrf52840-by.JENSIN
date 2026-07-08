@@ -188,7 +188,7 @@ https://ali.click/8dtlg16
 
 Для прошивки потребуется:
 
-### SmolSlimeConfigurator (SSC)
+### [SmolSlimeConfigurator (SSC)](https://github.com/ICantMakeThings/SmolSlimeConfigurator/tree/main?tab=readme-ov-file)
 
 Используется для:
 
